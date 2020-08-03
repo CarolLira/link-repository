@@ -1,7 +1,8 @@
 # happy-links
-<img src="images/teamWork.jpg" width="421" height="223"/>
+<h3>Este repositório foi criado para guardar links úteis para programadores</h3>
 
-Este repositório foi criado para guardar links úteis para programadores, sejam de APIs, sites com informações legais e outras coisas úteis.
+<div><img src="images/teamWork.jpg" width="420" height="200"/></div>
+
 
 ## Ideias de Projetos
 <ul>
