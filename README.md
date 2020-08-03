@@ -1,4 +1,4 @@
-# happy-links
+# link-repository
 <h3>Este repositório foi criado para guardar links úteis para programadores</h3>
 
 <div><img src="images/teamWork.jpg" width="420" height="200"/></div>
