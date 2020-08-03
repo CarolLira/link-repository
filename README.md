@@ -9,7 +9,7 @@ Este repositório foi criado para guardar links úteis para programadores, sejam
 
 ## Inspiração para Design
 <ul>
-  <li><a href="https://dribbble.com/" rel="nofollow">Dribble</a></li>
+  <li><a href="https://dribbble.com/" rel="nofollow">Dribbble</a></li>
   <li><a href="https://www.designspiration.com/" rel="nofollow">Design Inspiration</a></li>
   <li><a href="https://www.awwwards.com/" rel="nofollow">Awwwards</a></li>
 </ul>
