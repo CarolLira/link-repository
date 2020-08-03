@@ -17,6 +17,7 @@ Este repositório foi criado para guardar links úteis para programadores, sejam
 ## Ícones Gratuitos
 <ul>
   <li><a href="https://www.flaticon.com/" rel="nofollow">Flat Icon</a></li>
+  <li><a href="https://material.io/resources/icons/?style=baseline" rel="nofollow">Material Icons</a></li>
 </ul>
 
 ## APIs Abertas
