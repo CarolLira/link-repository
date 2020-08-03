@@ -1,4 +1,5 @@
 # happy-links
+<img src="images/teamWork.png" width="250" height="350"/>
 Este repositório foi criado para guardar links úteis para programadores, sejam de APIs, sites com informações legais e outras coisas úteis.
 
 ## Ideias de Projetos
