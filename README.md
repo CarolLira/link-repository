@@ -7,7 +7,6 @@
 ## Ideias de Projetos
 <ul>
   <li><a href="https://github.com/florinpop17/app-ideas" rel="nofollow">App Ideas: Coleção de ideias de projetos divididas por dificuldade</a></li>
-  <li><a href="https://www.uplabs.com/" rel="nofollow">UpLabs: Layouts gratuitos</a></li>
 </ul>
 
 ## Inspiração para Design
@@ -34,7 +33,10 @@
 <ul>
   <li><a href="https://archive.org/" rel="nofollow">Internet Archive: Biblioteca de sites, livros, música, software, filmes...</a></li>
   <li><a href="https://github.com/typicode/json-server" rel="nofollow">Gerar APIs Fakes pro seu projeto</a></li>
+  <li><a href="https://www.uplabs.com/" rel="nofollow">UpLabs: Layouts gratuitos</a></li>
+  <li><a href="https://www.w3schools.com/tags/ref_httpmessages.asp" rel="nofollow">Mensagens de status HTTP</a></li>
 </ul>
+
 
 <!--
 <ul>
