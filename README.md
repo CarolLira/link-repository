@@ -35,6 +35,7 @@
   <li><a href="https://github.com/typicode/json-server" rel="nofollow">JSON Server: Gerar APIs fakes pro seu projeto</a></li>
   <li><a href="https://www.uplabs.com/" rel="nofollow">UpLabs: Layouts gratuitos</a></li>
   <li><a href="https://www.w3schools.com/tags/ref_httpmessages.asp" rel="nofollow">Mensagens de status HTTP</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types" rel="nofollow">Tipos de Media HTTP</a></li>
 </ul>
 
 
