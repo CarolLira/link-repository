@@ -29,6 +29,12 @@
   <li><a href="https://api.github.com/users/carollira" rel="nofollow">Github</a></li>
 </ul>
 
+## Podcasts
+<ul>
+  <li><a href="https://hipsters.tech/" rel="nofollow">Hipsters Ponto Tech</a></li>
+  <li><a href="https://quebradev.com.br/" rel="nofollow">Quebra Dev</a></li>
+</ul>
+
 ## Sites
 <ul>
   <li><a href="https://archive.org/" rel="nofollow">Internet Archive: Biblioteca de sites, livros, música, software, filmes...</a></li>
