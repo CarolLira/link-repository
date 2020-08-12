@@ -14,12 +14,19 @@
   <li><a href="https://dribbble.com/" rel="nofollow">Dribbble</a></li>
   <li><a href="https://www.designspiration.com/" rel="nofollow">Design Inspiration</a></li>
   <li><a href="https://www.awwwards.com/" rel="nofollow">Awwwards</a></li>
+  <li><a href="https://www.vexels.com/" rel="nofollow">Vexels</a></li>
 </ul>
 
-## Ícones Gratuitos
+## Imagens e Ícones Gratuitos
 <ul>
   <li><a href="https://www.flaticon.com/" rel="nofollow">Flat Icon</a></li>
   <li><a href="https://material.io/resources/icons/?style=baseline" rel="nofollow">Material Icons</a></li>
+  <li><a href="https://dryicons.com/" rel="nofollow">Dry Icon</a></li>
+  <li><a href="https://www.stockio.com/" rel="nofollow">Stockio</a></li>
+  <li><a href="https://br.freepik.com/" rel="nofollow">Freepik</a></li>
+  <li><a href="https://www.vector4free.com/" rel="nofollow">Vector 4 free</a></li>
+  <li><a href="https://www.wowpatterns.com/" rel="nofollow">Wowpatterns</a></li>
+  <li><a href="https://www.drawkit.io/" rel="nofollow">Drawkit</a></li>
 </ul>
 
 ## APIs Abertas
