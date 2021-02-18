@@ -26,6 +26,11 @@
   <li><a href="https://www.wowpatterns.com/" rel="nofollow">Wowpatterns</a></li>
   <li><a href="https://www.drawkit.io/" rel="nofollow">Drawkit</a></li>
   <li><a href="https://undraw.co/illustrations" rel="nofollow">Undraw</a></li>
+  <li><a href="https://iradesign.io/gallery/illustrations" rel="nofollow">IRA Design</a></li>
+  <li><a href="https://absurd.design/" rel="nofollow">Absurd Design</a></li>
+  <li><a href="https://webkul.github.io/vivid/" rel="nofollow">Vivid</a></li>
+  <li><a href="https://www.manypixels.co/gallery" rel="nofollow">Many Pixels</a></li>
+  <li><a href="https://www.humaaans.com/" rel="nofollow">Humaaans</a></li>
 </ul>
 
 ## APIs Abertas
