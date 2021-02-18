@@ -1,9 +1,6 @@
 # link-repository
 <h3>Este repositório foi criado para guardar links úteis para programadores</h3>
 
-<div><img src="images/teamWork.jpg" width="420" height="200"/></div>
-
-
 ## Ideias de Projetos
 <ul>
   <li><a href="https://github.com/florinpop17/app-ideas" rel="nofollow">App Ideas: Coleção de ideias de projetos divididas por dificuldade</a></li>
