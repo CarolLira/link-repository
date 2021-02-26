@@ -31,6 +31,7 @@
   <li><a href="https://webkul.github.io/vivid/" rel="nofollow">Vivid</a></li>
   <li><a href="https://www.manypixels.co/gallery" rel="nofollow">Many Pixels</a></li>
   <li><a href="https://www.humaaans.com/" rel="nofollow">Humaaans</a></li>
+  <li><a href="https://themes-pixeden.com/font-demos/7-stroke/" rel="nofollow">Pixeden</a></li>
 </ul>
 
 ## APIs Abertas
@@ -44,6 +45,10 @@
 <ul>
   <li><a href="https://hipsters.tech/" rel="nofollow">Hipsters Ponto Tech</a></li>
   <li><a href="https://quebradev.com.br/" rel="nofollow">Quebra Dev</a></li>
+  <li><a href="https://www.scuba.dev.br/" rel="nofollow">Scuba Ponto Dev</a></li>
+  <li><a href="https://devpleno.com/podcasts/" rel="nofollow">DevPleno</a></li>
+  <li><a href="https://podprogramar.com.br/" rel="nofollow">PodProgramar</a></li>
+  <li><a href="http://tavernaprogramacao.com.br/" rel="nofollow">Taverna da Programação</a></li>
 </ul>
 
 ## Sites
