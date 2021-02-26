@@ -16,7 +16,7 @@
 
 ## Ícones Gratuitos
 <ul>
-  <li><a href="https://www.lottieflow.com/category" rel="nofollow">Flat Icon</a></li>
+  <li><a href="https://www.lottieflow.com/category" rel="nofollow">Lottie Flow (Ícones animados)</a></li>
   <li><a href="https://www.flaticon.com/" rel="nofollow">Flat Icon</a></li>
   <li><a href="https://icons8.com.br/icons/set/popular%20icons" rel="nofollow">Icons8</a></li>
   <li><a href="https://material.io/resources/icons/?style=baseline" rel="nofollow">Material Icons</a></li>
