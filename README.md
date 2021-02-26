@@ -14,24 +14,30 @@
   <li><a href="https://www.vexels.com/" rel="nofollow">Vexels</a></li>
 </ul>
 
-## Imagens e Ícones Gratuitos
+## Ícones Gratuitos
 <ul>
+  <li><a href="https://www.lottieflow.com/category" rel="nofollow">Flat Icon</a></li>
   <li><a href="https://www.flaticon.com/" rel="nofollow">Flat Icon</a></li>
   <li><a href="https://icons8.com.br/icons/set/popular%20icons" rel="nofollow">Icons8</a></li>
   <li><a href="https://material.io/resources/icons/?style=baseline" rel="nofollow">Material Icons</a></li>
   <li><a href="https://dryicons.com/" rel="nofollow">Dry Icon</a></li>
+  <li><a href="https://webkul.github.io/vivid/" rel="nofollow">Vivid</a></li>
+  <li><a href="https://themes-pixeden.com/font-demos/7-stroke/" rel="nofollow">Pixeden</a></li>
+</ul>
+
+## Imagens Gratuitas
+<ul>
   <li><a href="https://www.stockio.com/" rel="nofollow">Stockio</a></li>
   <li><a href="https://br.freepik.com/" rel="nofollow">Freepik</a></li>
   <li><a href="https://www.vector4free.com/" rel="nofollow">Vector 4 free</a></li>
   <li><a href="https://www.wowpatterns.com/" rel="nofollow">Wowpatterns</a></li>
   <li><a href="https://www.drawkit.io/" rel="nofollow">Drawkit</a></li>
   <li><a href="https://undraw.co/illustrations" rel="nofollow">Undraw</a></li>
-  <li><a href="https://iradesign.io/gallery/illustrations" rel="nofollow">IRA Design</a></li>
   <li><a href="https://absurd.design/" rel="nofollow">Absurd Design</a></li>
-  <li><a href="https://webkul.github.io/vivid/" rel="nofollow">Vivid</a></li>
+  <li><a href="https://iradesign.io/gallery/illustrations" rel="nofollow">IRA Design</a></li>
   <li><a href="https://www.manypixels.co/gallery" rel="nofollow">Many Pixels</a></li>
   <li><a href="https://www.humaaans.com/" rel="nofollow">Humaaans</a></li>
-  <li><a href="https://themes-pixeden.com/font-demos/7-stroke/" rel="nofollow">Pixeden</a></li>
+  <li><a href="https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/" rel="nofollow">Lapa</a></li>
 </ul>
 
 ## APIs Abertas
