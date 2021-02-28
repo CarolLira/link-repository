@@ -45,6 +45,7 @@
   <li><a href="https://developer.marvel.com/docs/" rel="nofollow">Marvel API</a></li>
   <li><a href="https://pokeapi.co/" rel="nofollow">Poké API</a></li>
   <li><a href="https://api.github.com/users/carollira" rel="nofollow">Github</a></li>
+  <li><a href="https://viacep.com.br/" rel="nofollow">Viacep</a></li>
 </ul>
 
 ## Podcasts
