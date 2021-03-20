@@ -38,6 +38,8 @@
   <li><a href="https://www.manypixels.co/gallery" rel="nofollow">Many Pixels</a></li>
   <li><a href="https://www.humaaans.com/" rel="nofollow">Humaaans</a></li>
   <li><a href="https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/" rel="nofollow">Lapa</a></li>
+  <li><a href="https://www.pexels.com/pt-br/" rel="nofollow">Pexels</a></li>
+  <li><a href="https://unsplash.com/" rel="nofollow">Unsplash</a></li>
 </ul>
 
 ## APIs Abertas
