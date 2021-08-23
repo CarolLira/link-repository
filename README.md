@@ -23,6 +23,7 @@
   <li><a href="https://dryicons.com/" rel="nofollow">Dry Icon</a></li>
   <li><a href="https://webkul.github.io/vivid/" rel="nofollow">Vivid</a></li>
   <li><a href="https://themes-pixeden.com/font-demos/7-stroke/" rel="nofollow">Pixeden</a></li>
+  <li><a href="https://react-icons.github.io/react-icons" rel="nofollow">React Icons</a></li>
 </ul>
 
 ## Imagens Gratuitas
