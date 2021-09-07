@@ -72,6 +72,9 @@
   <li><a href="https://www.w3schools.com/tags/ref_httpmessages.asp" rel="nofollow">Mensagens de status HTTP</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types" rel="nofollow">Tipos de Media HTTP</a></li>
   <li><a href="https://www.4devs.com.br/gerador_de_pessoas" rel="nofollow">Gerador de documentos de pessoas</a></li>
+  <li><a href="http://howtocenterincss.com/" rel="nofollow">wizard para centralizar coisas com css</a></li>
+  <li><a href="https://cssgrid-generator.netlify.app/" rel="nofollow">wizard de grid css</a></li>
+
 </ul>
 
 
