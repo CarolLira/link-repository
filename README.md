@@ -50,6 +50,7 @@
   <li><a href="https://api.github.com/users/carollira" rel="nofollow">Github</a></li>
   <li><a href="https://viacep.com.br/" rel="nofollow">Viacep</a></li>
   <li><a href="https://lyricsovh.docs.apiary.io/#reference/0/lyrics-of-a-song" rel="nofollow">Lyrics OVH</a></li>
+  <li><a href="https://rickandmortyapi.com/graphql" rel="nofollow">Rick e Morty API</a></li>
 </ul>
 
 ## Podcasts
