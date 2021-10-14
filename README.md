@@ -75,7 +75,8 @@
   <li><a href="https://www.4devs.com.br/gerador_de_pessoas" rel="nofollow">Gerador de documentos de pessoas</a></li>
   <li><a href="http://howtocenterincss.com/" rel="nofollow">wizard para centralizar coisas com css</a></li>
   <li><a href="https://cssgrid-generator.netlify.app/" rel="nofollow">wizard de grid css</a></li>
-
+  <li><a href="https://devdocs.io/" rel="nofollow">DevDocs Acessar documentações de várias tecnologias e poder salvá-las offline</a></li>
+  
 </ul>
 
 
